@@ -1,0 +1,492 @@
+:Monkey: seed=1527883391596 count=2000
+:AllowPackage: us.lindanrandy.cidrcalculator
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Touch (ACTION_DOWN): 0:(494.0,1753.0)
+:Sending Touch (ACTION_UP): 0:(491.92432,1772.9667)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(631.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(619.15393,1307.1299)
+:Sending Touch (ACTION_DOWN): 0:(303.0,384.0)
+:Sending Touch (ACTION_UP): 0:(344.31668,358.84998)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(957.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(956.9604,1145.6804)
+:Sending Touch (ACTION_DOWN): 0:(670.0,955.0)
+:Sending Touch (ACTION_UP): 0:(665.97296,953.66705)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,2.0)
+:Sending Touch (ACTION_UP): 0:(418.00433,4.4827857)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(754.0,907.0)
+:Sending Touch (ACTION_UP): 0:(743.0865,964.4207)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    //[calendar_time:2018-06-01 09:32:59.092  system_uptime:483565]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(1054.3875,1113.3835)
+:Sending Touch (ACTION_DOWN): 0:(810.0,1198.0)
+:Sending Touch (ACTION_UP): 0:(853.336,1158.0267)
+:Sending Touch (ACTION_DOWN): 0:(354.0,302.0)
+:Sending Touch (ACTION_UP): 0:(344.16873,275.4485)
+:Sending Touch (ACTION_DOWN): 0:(866.0,357.0)
+:Sending Touch (ACTION_UP): 0:(847.4504,365.39377)
+:Sending Touch (ACTION_DOWN): 0:(54.0,523.0)
+:Sending Touch (ACTION_UP): 0:(54.756588,526.362)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    // Allowing start of Intent { cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Touch (ACTION_DOWN): 0:(963.0,177.0)
+:Sending Touch (ACTION_UP): 0:(960.8878,183.47095)
+:Sending Touch (ACTION_DOWN): 0:(392.0,762.0)
+:Sending Touch (ACTION_UP): 0:(377.64838,760.8753)
+    // Allowing start of Intent { cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Touch (ACTION_DOWN): 0:(358.0,1329.0)
+:Sending Touch (ACTION_UP): 0:(359.2411,1329.474)
+:Sending Touch (ACTION_DOWN): 0:(47.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(42.901817,1164.7288)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(443.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(446.99756,1175.4996)
+:Sending Touch (ACTION_DOWN): 0:(181.0,682.0)
+:Sending Touch (ACTION_UP): 0:(157.57939,726.3852)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+    // Allowing start of Intent { cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Touch (ACTION_DOWN): 0:(579.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(594.0773,1740.7454)
+:Sending Touch (ACTION_DOWN): 0:(766.0,1288.0)
+:Sending Touch (ACTION_UP): 0:(769.0287,1281.2239)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2018-06-01 09:32:59.802  system_uptime:484275]
+    // Sending event #200
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Touch (ACTION_DOWN): 0:(942.0,1182.0)
+:Sending Touch (ACTION_UP): 0:(920.7891,1183.6044)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(940.0,1036.0)
+:Sending Touch (ACTION_UP): 0:(939.1672,1048.1497)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2018-06-01 09:33:00.353  system_uptime:484826]
+    // Sending event #300
+    //[calendar_time:2018-06-01 09:33:00.354  system_uptime:484827]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(1034.9053,1495.9106)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(580.0,45.0)
+:Sending Touch (ACTION_UP): 0:(571.44653,44.69459)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(127.0,217.0)
+:Sending Touch (ACTION_UP): 0:(123.756874,224.51599)
+:Sending Touch (ACTION_DOWN): 0:(421.0,58.0)
+:Sending Touch (ACTION_UP): 0:(412.30124,108.08681)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,1478.0)
+:Sending Touch (ACTION_UP): 0:(543.5747,1557.1664)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(154.0,1196.0)
+    //[calendar_time:2018-06-01 09:33:00.591  system_uptime:485064]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(133.57977,1159.072)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Touch (ACTION_DOWN): 0:(373.0,1367.0)
+:Sending Touch (ACTION_UP): 0:(384.6098,1396.927)
+:Sending Touch (ACTION_DOWN): 0:(454.0,806.0)
+:Sending Touch (ACTION_UP): 0:(453.0547,829.1223)
+:Sending Touch (ACTION_DOWN): 0:(394.0,405.0)
+:Sending Touch (ACTION_UP): 0:(405.19327,406.20605)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(362.0,1464.0)
+:Sending Touch (ACTION_UP): 0:(380.2612,1465.4523)
+:Sending Touch (ACTION_DOWN): 0:(1.0,685.0)
+:Sending Touch (ACTION_UP): 0:(0.0,744.3182)
+:Sending Touch (ACTION_DOWN): 0:(49.0,1280.0)
+:Sending Touch (ACTION_UP): 0:(81.39279,1215.049)
+:Sending Touch (ACTION_DOWN): 0:(860.0,1535.0)
+:Sending Touch (ACTION_UP): 0:(858.0172,1634.0587)
+:Sending Touch (ACTION_DOWN): 0:(785.0,539.0)
+:Sending Touch (ACTION_UP): 0:(800.01904,551.27454)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,80.0)
+:Sending Touch (ACTION_UP): 0:(1067.9529,37.216568)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    // Rejecting start of Intent { cmp=com.android.settings/.Settings$DataUsageSummaryActivity } in package com.android.settings
+    //[calendar_time:2018-06-01 09:33:00.978  system_uptime:485451]
+    // Sending event #500
+    //[calendar_time:2018-06-01 09:33:00.979  system_uptime:485452]
+    // Sending event #500
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(134.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(144.46954,1637.8019)
+:Sending Touch (ACTION_DOWN): 0:(435.0,171.0)
+:Sending Touch (ACTION_UP): 0:(442.7768,164.80818)
+:Sending Touch (ACTION_DOWN): 0:(772.0,348.0)
+:Sending Touch (ACTION_UP): 0:(776.62506,354.09152)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(299.0,512.0)
+:Sending Touch (ACTION_UP): 0:(372.1278,460.96585)
+:Sending Touch (ACTION_DOWN): 0:(595.0,804.0)
+:Sending Touch (ACTION_UP): 0:(600.41583,794.5506)
+:Sending Touch (ACTION_DOWN): 0:(652.0,168.0)
+:Sending Touch (ACTION_UP): 0:(665.83386,172.42001)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2018-06-01 09:33:01.591  system_uptime:486064]
+    // Sending event #600
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(480.0,350.0)
+:Sending Touch (ACTION_UP): 0:(476.34702,360.08557)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,668.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,667.9261)
+:Sending Touch (ACTION_DOWN): 0:(136.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(137.10072,1108.8446)
+:Sending Touch (ACTION_DOWN): 0:(787.0,1527.0)
+:Sending Touch (ACTION_UP): 0:(783.11285,1526.528)
+:Sending Touch (ACTION_DOWN): 0:(566.0,1437.0)
+:Sending Touch (ACTION_UP): 0:(564.4858,1439.319)
+:Sending Touch (ACTION_DOWN): 0:(658.0,745.0)
+:Sending Touch (ACTION_UP): 0:(642.6527,746.63885)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Touch (ACTION_DOWN): 0:(453.0,123.0)
+:Sending Touch (ACTION_UP): 0:(456.86115,129.44174)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(863.51764,1749.6506)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Touch (ACTION_DOWN): 0:(972.0,864.0)
+    //[calendar_time:2018-06-01 09:33:02.033  system_uptime:486506]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(965.40674,869.97186)
+:Sending Touch (ACTION_DOWN): 0:(90.0,1577.0)
+:Sending Touch (ACTION_UP): 0:(91.083786,1578.6033)
+    // Allowing start of Intent { cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(198.0,206.0)
+:Sending Touch (ACTION_UP): 0:(155.87044,258.74173)
+:Sending Touch (ACTION_DOWN): 0:(737.0,1172.0)
+:Sending Touch (ACTION_UP): 0:(710.90045,1215.1184)
+:Sending Touch (ACTION_DOWN): 0:(943.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(968.86334,1158.1133)
+:Sending Touch (ACTION_DOWN): 0:(165.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(163.26958,1329.4006)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(442.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(394.9797,1652.6418)
+:Sending Touch (ACTION_DOWN): 0:(835.0,862.0)
+:Sending Touch (ACTION_UP): 0:(821.0553,859.30676)
+:Sending Touch (ACTION_DOWN): 0:(607.0,822.0)
+:Sending Touch (ACTION_UP): 0:(605.08405,831.63257)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(441.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(428.3802,1138.8661)
+    //[calendar_time:2018-06-01 09:33:02.936  system_uptime:487409]
+    // Sending event #800
+    //[calendar_time:2018-06-01 09:33:02.937  system_uptime:487410]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(655.0,815.0)
+:Sending Touch (ACTION_UP): 0:(661.9758,819.21155)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(112.0,816.0)
+:Sending Touch (ACTION_UP): 0:(107.61095,817.8382)
+:Sending Touch (ACTION_DOWN): 0:(341.0,688.0)
+:Sending Touch (ACTION_UP): 0:(332.2375,687.966)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(18.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(8.044502,998.46625)
+:Sending Touch (ACTION_DOWN): 0:(149.0,830.0)
+:Sending Touch (ACTION_UP): 0:(155.27579,843.18896)
+    //[calendar_time:2018-06-01 09:33:03.509  system_uptime:487982]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(390.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(312.98044,1595.3502)
+:Sending Touch (ACTION_DOWN): 0:(31.0,1654.0)
+:Sending Touch (ACTION_UP): 0:(43.786808,1658.5483)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(102.0,1701.0)
+:Sending Touch (ACTION_UP): 0:(101.433,1700.0338)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,838.0)
+:Sending Touch (ACTION_UP): 0:(654.70746,849.15735)
+:Sending Touch (ACTION_DOWN): 0:(637.0,26.0)
+:Sending Touch (ACTION_UP): 0:(624.04456,18.657122)
+:Sending Touch (ACTION_DOWN): 0:(356.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(336.71872,1241.3514)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2018-06-01 09:33:04.000  system_uptime:488472]
+    // Sending event #1000
+:Sending Touch (ACTION_DOWN): 0:(1021.0,1508.0)
+:Sending Touch (ACTION_UP): 0:(967.2689,1496.0546)
+:Sending Touch (ACTION_DOWN): 0:(400.0,1159.0)
+:Sending Touch (ACTION_UP): 0:(419.09232,1148.172)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(84.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(76.73396,1672.281)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Touch (ACTION_DOWN): 0:(45.0,969.0)
+:Sending Touch (ACTION_UP): 0:(108.12549,927.5626)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,723.0)
+:Sending Touch (ACTION_UP): 0:(1039.646,717.4155)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2018-06-01 09:33:04.602  system_uptime:489074]
+    // Sending event #1100
+:Sending Touch (ACTION_DOWN): 0:(852.0,593.0)
+:Sending Touch (ACTION_UP): 0:(777.85046,559.2881)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(481.0,279.0)
+:Sending Touch (ACTION_UP): 0:(462.76035,334.37836)
+:Sending Touch (ACTION_DOWN): 0:(180.0,722.0)
+:Sending Touch (ACTION_UP): 0:(184.37944,734.27966)
+:Sending Touch (ACTION_DOWN): 0:(1009.0,938.0)
+:Sending Touch (ACTION_UP): 0:(1004.5428,919.61975)
+    // Allowing start of Intent { cmp=us.lindanrandy.cidrcalculator/.Preferences } in package us.lindanrandy.cidrcalculator
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(396.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(407.97806,1128.294)
+:Sending Touch (ACTION_DOWN): 0:(87.0,247.0)
+    // Rejecting start of Intent { cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.OpaActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_UP): 0:(50.843815,164.94511)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2018-06-01 09:33:05.949  system_uptime:490422]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(224.0,556.0)
+:Sending Touch (ACTION_UP): 0:(224.60484,557.8923)
+:Sending Touch (ACTION_DOWN): 0:(57.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(60.847218,1668.314)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,778.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,777.99475)
+:Sending Touch (ACTION_DOWN): 0:(718.0,398.0)
+:Sending Touch (ACTION_UP): 0:(736.09064,392.53043)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(681.0,170.0)
+:Sending Touch (ACTION_UP): 0:(679.6205,169.75978)
+    //[calendar_time:2018-06-01 09:33:06.253  system_uptime:490895]
+    // Sending event #1300
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(291.0,165.0)
+:Sending Touch (ACTION_UP): 0:(289.8487,127.811195)
+:Sending Touch (ACTION_DOWN): 0:(634.0,706.0)
+:Sending Touch (ACTION_UP): 0:(622.3776,721.1993)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(97.0,184.0)
+:Sending Touch (ACTION_UP): 0:(99.187645,194.33345)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.sonymobile.calendar/.LaunchActivity } in package com.sonymobile.calendar
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(750.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(760.24335,1389.0936)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(1022.39087,1103.8909)
+:Sending Touch (ACTION_DOWN): 0:(431.0,818.0)
+:Sending Touch (ACTION_UP): 0:(427.62717,814.75574)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,34.0)
+:Sending Touch (ACTION_UP): 0:(1021.1053,43.493595)
+:Sending Touch (ACTION_DOWN): 0:(525.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(612.5849,1700.9618)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2018-06-01 09:33:06.485  system_uptime:491127]
+    // Sending event #1400
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(130.0,1495.0)
+:Sending Touch (ACTION_UP): 0:(143.76352,1489.2649)
+:Sending Touch (ACTION_DOWN): 0:(219.0,316.0)
+:Sending Touch (ACTION_UP): 0:(211.7174,301.25607)
+:Sending Touch (ACTION_DOWN): 0:(903.0,478.0)
+:Sending Touch (ACTION_UP): 0:(902.5364,475.84393)
+:Sending Touch (ACTION_DOWN): 0:(642.0,695.0)
+:Sending Touch (ACTION_UP): 0:(639.09454,637.1681)
+:Sending Touch (ACTION_DOWN): 0:(786.0,991.0)
+:Sending Touch (ACTION_UP): 0:(786.00446,998.65735)
+:Sending Touch (ACTION_DOWN): 0:(163.0,81.0)
+:Sending Touch (ACTION_UP): 0:(129.54176,154.80205)
+:Sending Touch (ACTION_DOWN): 0:(986.0,553.0)
+    //[calendar_time:2018-06-01 09:33:06.842  system_uptime:491485]
+    // Sending event #1500
+:Sending Touch (ACTION_UP): 0:(979.8155,572.71643)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Touch (ACTION_DOWN): 0:(625.0,190.0)
+:Sending Touch (ACTION_UP): 0:(624.44214,195.49026)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,298.0)
+:Sending Touch (ACTION_UP): 0:(1074.0375,283.19922)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,453.0)
+:Sending Touch (ACTION_UP): 0:(998.63916,466.2763)
+:Sending Touch (ACTION_DOWN): 0:(826.0,234.0)
+:Sending Touch (ACTION_UP): 0:(825.2437,244.13461)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    //[calendar_time:2018-06-01 09:33:07.176  system_uptime:491818]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(4.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(2.9619448,1088.0166)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(835.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(835.17316,1265.2792)
+:Sending Touch (ACTION_DOWN): 0:(670.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(653.6898,1148.2572)
+:Sending Touch (ACTION_DOWN): 0:(405.0,731.0)
+:Sending Touch (ACTION_UP): 0:(418.3799,745.8106)
+:Sending Touch (ACTION_DOWN): 0:(535.0,686.0)
+:Sending Touch (ACTION_UP): 0:(555.39124,592.2628)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=us.lindanrandy.cidrcalculator/.CIDRCalculator;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=us.lindanrandy.cidrcalculator/.CIDRCalculator } in package us.lindanrandy.cidrcalculator
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    // Rejecting start of Intent { cmp=com.google.android.apps.photos/.home.HomeActivity } in package com.google.android.apps.photos
+:Sending Touch (ACTION_DOWN): 0:(682.0,266.0)
+:Sending Touch (ACTION_UP): 0:(675.7897,269.1413)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(549.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(560.31885,1458.0052)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2018-06-01 09:33:07.627  system_uptime:492270]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(275.0,270.0)
+:Sending Touch (ACTION_UP): 0:(284.91638,279.9132)
+:Sending Touch (ACTION_DOWN): 0:(213.0,1352.0)
+:Sending Touch (ACTION_UP): 0:(207.07413,1361.2509)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,612.0)
+:Sending Touch (ACTION_UP): 0:(1068.0168,612.1211)
+:Sending Touch (ACTION_DOWN): 0:(974.0,858.0)
+:Sending Touch (ACTION_UP): 0:(961.65076,858.7522)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1405.0)
+:Sending Touch (ACTION_UP): 0:(250.06343,1396.032)
+:Sending Touch (ACTION_DOWN): 0:(325.0,557.0)
+:Sending Touch (ACTION_UP): 0:(319.84738,553.6809)
+:Sending Touch (ACTION_DOWN): 0:(512.0,1432.0)
+:Sending Touch (ACTION_UP): 0:(520.13544,1436.7775)
+:Sending Touch (ACTION_DOWN): 0:(195.0,936.0)
+:Sending Touch (ACTION_UP): 0:(202.70059,954.57587)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    //[calendar_time:2018-06-01 09:33:08.100  system_uptime:492743]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(201.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(283.59818,1717.8754)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(801.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(805.06555,1767.8854)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(257.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(275.7822,1748.9518)
+:Sending Touch (ACTION_DOWN): 0:(255.0,1646.0)
+:Sending Touch (ACTION_UP): 0:(293.66498,1646.4199)
+:Sending Touch (ACTION_DOWN): 0:(1068.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(1070.4814,1636.8936)
+:Sending Touch (ACTION_DOWN): 0:(293.0,736.0)
+:Sending Touch (ACTION_UP): 0:(283.0987,742.5479)
+:Sending Touch (ACTION_DOWN): 0:(64.0,485.0)
+:Sending Touch (ACTION_UP): 0:(67.17101,496.69366)
+    // Rejecting start of Intent { cmp=com.sonyericsson.usbux/.dialogs.PcCompanionInstallationActivity } in package com.sonyericsson.usbux
+:Sending Touch (ACTION_DOWN): 0:(444.0,992.0)
+:Sending Touch (ACTION_UP): 0:(373.22516,1075.0693)
+:Sending Touch (ACTION_DOWN): 0:(424.0,922.0)
+:Sending Touch (ACTION_UP): 0:(430.45462,919.36584)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2018-06-01 09:33:08.499  system_uptime:493141]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(985.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(982.0468,1763.4025)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(22.0,901.0)
+:Sending Touch (ACTION_UP): 0:(23.338964,906.0537)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,605.0)
+:Sending Touch (ACTION_UP): 0:(1044.5779,600.32385)
+:Sending Touch (ACTION_DOWN): 0:(98.0,1394.0)
+:Sending Touch (ACTION_UP): 0:(111.47424,1393.8726)
+:Sending Touch (ACTION_DOWN): 0:(140.0,475.0)
+:Sending Touch (ACTION_UP): 0:(172.91074,452.29083)
+:Sending Touch (ACTION_DOWN): 0:(633.0,684.0)
+:Sending Touch (ACTION_UP): 0:(635.6283,672.6831)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(314.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(332.84106,1414.3436)
+:Sending Touch (ACTION_DOWN): 0:(205.0,983.0)
+Events injected: 2000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=2 rotations=0
+## Network stats: elapsed time=10736ms (0ms mobile, 0ms wifi, 10736ms not connected)
+// Monkey finished
